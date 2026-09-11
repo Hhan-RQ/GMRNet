@@ -12,5 +12,5 @@ Gated Multi-scale Refinement Network for Underwater Self-Supervised Monocular De
 </p>
 
 <p align="center">
-  <img src="FLSea%20Stereo.png" width="95%">
+  <img src="FLSea%20Stereo.png" width="60%">
 </p>
